@@ -1,0 +1,15 @@
+//body{
+//  background: red;
+//}
+
+//import 'primeicons/primeicons.css'
+
+@import "primeicons/primeicons.css";
+
+.w-full{
+  width: 100%;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
